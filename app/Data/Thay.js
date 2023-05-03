@@ -4,7 +4,7 @@ export const people = [
     name: "Paige Mitchell (My wife)",
     relation: "wife",
     influ:
-      "Paige has always been my biggest supporter in any challenge I take on. She is always there to pick me back up when I am feeling discouraged. When I decided to go on this journey to learn how to code, Paige was the first to cheer me on and when I decided to go back to school for Data Analytics she selflessly picked up the slack around the house and with our dogs while I was in class or studying. None of this (or any other accomplishments in my life) would have been possible. I am thankful everyday that I get to spend my life with her.  ",
+      "Paige has always been my biggest supporter in any challenge I take on. She is always there to pick me back up when I am feeling discouraged. When I decided to go on this journey to learn how to code, Paige was the first to cheer me on and when I decided to go back to school for Data Analytics she selflessly picked up the slack around the house and with our dogs while I was in class or studying. None of this (or any other accomplishments in my life) would have been possible without her. I am thankful everyday that I get to spend my life with her.  ",
   },
   {
     id: 1,
